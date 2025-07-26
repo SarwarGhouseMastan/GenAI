@@ -6,3 +6,4 @@ seaborn
 matplotlib
 flask
 streamlit
+scikit-learn
